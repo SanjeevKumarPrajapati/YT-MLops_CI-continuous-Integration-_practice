@@ -5,6 +5,7 @@ st.title("Power Calculator")
 st.write("Enter a number to calculate its square,cube,and fifth power.")
 
 #get the user input
+
 n=st.number_input("Enter an integer",value=1,step=1)
 
 #Calculate the result
